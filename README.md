@@ -1,4 +1,4 @@
-# CS4300 - Predicting Win/Loss Likelihood of Home MLB Teams
+# CS4300 - Game Features and Home MLB Teams Wins
 Introduction to Artificial Intelligence - University of Missouri St. Louis - Fall 2021
 
 This is a revamp of my project for the fall semester. 
